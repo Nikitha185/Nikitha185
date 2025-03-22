@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Nikitha! 👋
+Welcome to my GitHub portfolio! Here are some of my projects and skills.
 
-<!--
-**Nikitha185/Nikitha185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
+- [My Data Pipeline](https://github.com/Nikitha185/My_datapipeline)
+- [Another Project](https://github.com/Nikitha185/AnotherProject)
 
-Here are some ideas to get you started:
+## 💡 Skills
+- Python, Kafka, PySpark
+- PostgreSQL, AWS, Apache Airflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- [LinkedIn]:https://www.linkedin.com/in/nikitha-807685282
+- Email: nikithashetty21799@gmail.com
